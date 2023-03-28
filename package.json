@@ -2,7 +2,7 @@
   "name": "richpresence",
   "version": "1.0.0",
   "description": "Sets a rich-presence in discord.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
